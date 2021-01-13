@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Soy Yessith Estive Herrera Sanjuan y soy un profesional en sistemas e informática, con fortalezas en el desarrollo, optimización y posicionamiento de sitios web. Encaminado al aprendizaje constante y simpatizante por el mundo digital y la lectura.
+🖖Saludos a todos.
+- 📚 Actualmente estoy aprendiendo desarrollo web
+- 📫 Cómo contactarme:
+- 📱 3024646399
+- 📱 3147700999
+- 📩 yessith.hs@gmail.com
+- 💼 https://www.linkedin.com/in/yessith-esteven-herrera-sanjuan
