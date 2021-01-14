@@ -22,3 +22,4 @@ Soy Yessith Estive Herrera Sanjuan y soy un profesional en sistemas informático
 - 📱 3147700999
 - 📩 yessith.hs@gmail.com
 - 💼 https://www.linkedin.com/in/yessith-esteven-herrera-sanjuan
+- 🧙‍♂️ Ver CV https://drive.google.com/file/d/1XohvtgKp9spA4B50cHCIVo9DaEBs8KKY/view
