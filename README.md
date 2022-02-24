@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Soy Yessith Estive Herrera Sanjuan y soy un profesional en sistemas informático, con fortalezas en el desarrollo, optimización y posicionamiento de sitios web. Encaminado al aprendizaje constante y simpatizante por el mundo digital y la lectura.
+Soy Yessith Estive Herrera Sanjuan y soy un profesional en sistemas informático, con fortalezas en el desarrollo Frontend con React JS, la optimización y posicionamiento de sitios web. Encaminado al aprendizaje constante y simpatizante por el mundo digital, los videojuegos y la lectura.
 🖖Saludos a todos.
-- 📚 Actualmente estoy aprendiendo desarrollo web
+- 📚 Actualmente estoy aprendiendo desarrollo web con React
 - 📫 Cómo contactarme:
 - 📱 3024646399
 - 📱 3147700999
