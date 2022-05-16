@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Soy Yessith Estive Herrera Sanjuan y soy un profesional en sistemas informático, con fortalezas en el desarrollo Frontend con React JS, la optimización y posicionamiento de sitios web. Encaminado al aprendizaje constante y simpatizante por el mundo digital, los videojuegos y la lectura.
-🖖Saludos a todos.
+Profesional en sistemas y desarrollador Front-End, con una insaciable curiosidad por el mundo del desarrollo, la optimización y posicionamiento de sitios web y aplicativos web. Encaminado al aprendizaje constante y simpatizante por el mundo digital y la lectura.
+
+Con fortalezas en el uso de herramientas y tecnologías como, React JS | JavaScript | Redux | Sass | Firebase | styled components | Git y GitHub, y destacando el uso e implementación de buenas practicas de desarrollo, en aras de construir productos eficiente y atractivos que brinden una excelente experiencia al usuario.
+
 - 📚 Actualmente estoy aprendiendo desarrollo web con React
 - 📫 Cómo contactarme:
 - 📱 3024646399
